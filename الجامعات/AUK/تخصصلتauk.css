@@ -1,0 +1,129 @@
+.management2{
+
+    text-align: center;
+    color:#d00000 ;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    
+}
+
+.management2 h2{
+    font-size: x-large;
+    font-weight: bolder;
+    color: #780000;
+}
+
+.management2 h3{
+    color:#9d0208 ;
+}
+.management2 a{
+    text-decoration: none;
+    color:#e5383b ;
+}
+
+.management2 ol{
+  display: inline;
+
+}
+
+.managementauk{
+    text-align: center;
+        color: #9d0208;
+        font-size: larger;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: oblique;
+
+}
+
+.managementauk h2 {
+    color: #404C55;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.managementauk h3 {
+    color:#5C6D7B ;
+    font-size: x-large;
+  font-weight: bolder;
+}
+
+.managementauk a {
+    text-decoration: none;
+    color: #d00000;
+}
+
+.managementauk ol{
+    display: inline;
+}
+
+.ENGAUK{
+    text-align: center;
+        color: #9d0208;
+        font-size: larger;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: oblique;
+
+}
+
+.ENGAUK ol{
+    display: inline;
+
+}
+
+.ENGAUK a{
+    text-decoration: none;
+    color: #e5383b;
+   
+
+}
+
+
+
+
+
+.ENGAUK h2{
+    text-transform: lowercase;
+    font-size: x-large;
+    font-style: oblique;
+    color: #928a8a;
+}
+.ENGAUK h3{
+    color: #da5552;
+}
+
+.ARTS{
+    text-align: center;
+        color: #9d0208;
+        font-size: larger;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: oblique;
+}
+
+
+.ARTS h2{
+    text-transform: lowercase;
+        font-size: x-large;
+        font-style: oblique;
+        color: #928a8a;
+    
+}
+
+.ARTS h3{
+    color: #da5552;
+}
+.ARTS ol{
+    display: inline;
+}
+.ARTS a{
+    text-decoration: none;
+    color: #404C55;
+}
+.ARTS a :hover{
+    color: #d00000;
+    transition: 0.5s ease;
+}

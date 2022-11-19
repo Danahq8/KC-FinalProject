@@ -1,0 +1,141 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #de1623fb;
+    color: white;
+    text-align: center;
+    font-size: larger;
+        font-style: oblique;
+        font-weight: bolder;
+}
+
+body {
+    background-color: #dee8ed;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+ul a {
+    color: white;
+    padding-left: 10px;
+    text-align: center;
+}
+
+li :hover {
+    color: #f5e663;
+}
+
+
+body {
+    background-color: #fffcf2;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
+
+}
+
+header {
+    background-color: #84182A;
+    padding: 15px;
+    box-shadow: 0 0 3px #000;
+
+}
+
+header li {
+    display: inline;
+    padding-left: 45px;
+
+}
+
+header li a {
+    color: white;
+    text-decoration: none;
+    padding: 13px;
+    transition: 0.3s ease;
+
+}
+
+
+header li a :hover {
+    color: #FBECEF;
+
+}
+
+header ul #contact a {
+    color: #0d0d0d;
+    background-color: white;
+    border-radius: 30px;
+    float: right;
+    position: relative;
+    top: -15px;
+    transition: 0.3s ease;
+
+}
+
+header ul #contact a :hover {
+    background-color: #ed1c24;
+
+}
+
+.active {
+    color: #F6D8DF;
+}
+
+header li img {
+    width: 100px;
+    float: left;
+    margin-top: -50px;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+h1 {
+    color: #c2b53c;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+.location h3{
+    line-height: 2;
+    font-size: medium;
+    color: #000;
+}
+.location p{
+    line-height: 2;
+    font-size: 1.6;
+    color: rgb(0, 0, 0);
+}
+.location img{
+    width:100;
+height: 140px;
+object-fit: cover;
+cursor: pointer;
+transition: 0.2s ease;
+border-radius: 44%;
+grid-template-columns: repeat(3, 1fr);
+padding: 30px 20px;
+grid-column-gap: 20px;
+grid-row-gap: 30px;
+}
+
+.location{
+background-color: #fffcf2;
+
+}
+.location a{
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+}
+
+

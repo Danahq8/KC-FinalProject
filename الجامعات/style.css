@@ -1,0 +1,100 @@
+h2{
+    color:#f8edeb;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 0;
+    font-weight: bolder;
+   
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #f8edeb;
+
+}
+    
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: #eaebed;
+    height: 100vh;
+    margin: 0;
+}
+
+#welcome{
+    background-color:#84182A ;
+    width: 80%;
+    text-align: center;
+    margin: 100px;
+    padding: 50px;
+    border-top: 15px solid #ff5a5f;
+
+}
+form{
+    padding: 50px;
+    width: 60%;
+    margin: auto;
+
+
+}
+.field{
+    margin-bottom: 25px;
+    width: 100%;
+    display: grid;
+    position: relative;
+    transition: all ease-in-out;
+    
+
+}
+
+label{
+    color:#CE2642 ;
+    background-color: #f8edeb;
+    font-size: xx-large;
+    letter-spacing: 2px;
+    width: 700px;
+    padding: 0;
+    font-weight: bolder;
+    position: absolute;
+    transition: all ease-in-out;
+
+}
+.input{
+    height: 50px;
+    outline: none;
+    width: 700px;
+    padding-left: 20%;
+    box-sizing: border-box;
+    
+}
+.field:hover label{
+width: 18%;
+background-color: #E58BA0;
+color: #f8edeb;
+transition: all 0.5s ease-in-out;
+}
+#danah{
+    height: 50px;
+    width: 150px;
+    margin-top: 22px;
+    border-radius: 2px;
+    border: none;
+    font-size: larger;
+    font-weight: bolder;
+    color: #D43D60;
+    transition: all ease-in-out;
+    
+}
+
+#danah :hover{
+    background-color: #D43D60;
+    color: #f8edeb;
+    transition: 0.3s ease-in-out;
+}

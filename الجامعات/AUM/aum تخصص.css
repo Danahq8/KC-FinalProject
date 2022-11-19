@@ -1,0 +1,91 @@
+.ENG{
+    display: inline;
+        text-decoration: none;
+        text-align-last: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: oblique;
+        font-weight: bold;
+        color: #e5383b;
+         margin: 0px;
+        padding: 0px;
+
+}
+.ENG h2{
+    font-size: larger;
+    color:#85182a ;
+}
+.ENG h3{
+    font-size: larger;
+    color:#c71f37 ;
+}
+.ENG ol{
+   display: inline;
+
+}
+
+.ENG a{
+    text-decoration: none;
+    text-align: center;
+    display: inline;
+    color: #e5383b;
+    font-size: larger;
+    font-style: oblique;
+  
+
+}
+
+.ENG a:hover
+{
+    color: #ffba08;
+    justify-content: center;
+}
+
+.building{
+    padding: 50px;
+    text-align: center;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: bolder;
+    color: #e56b6f;
+}
+
+.building h2{
+    color: black;
+    font-size: larger;
+}
+
+
+.Business{
+    padding: 50px;
+        text-align: center;
+        font-size: x-large;
+        font-style: oblique;
+        font-weight: bolder;
+        color: #ad2e24;
+
+}
+
+.Business a{
+    text-decoration: none;
+      text-align: center;
+     color: #e56b6f;
+
+}
+
+.Business ol {
+    display: inline;
+    
+    
+}
+
+.Business h1{
+    color: #c71f37;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+.Business h2{
+    color: #85182a;
+    font-weight: bolder;
+    font-size: larger;
+}
